@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "657382232934",
+    "firebase_url": "https://knack2-d2b01.firebaseio.com",
+    "project_id": "knack2-d2b01",
+    "storage_bucket": "knack2-d2b01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657382232934:android:7849dba49aefaf91",
+        "android_client_info": {
+          "package_name": "e.jovia_000.knack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657382232934-tp26pbk6veqna1eir7crneicmeehjc7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.jovia_000.knack",
+            "certificate_hash": "10bad9946f20a87abe1d2fc4bc1a330d9c839873"
+          }
+        },
+        {
+          "client_id": "657382232934-p6jdsqkgs0hdpl3t24uqhd2u8d7aqbkk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.jovia_000.knack",
+            "certificate_hash": "236be3b978e9ea3d1574b30c237d48da16ff7fcc"
+          }
+        },
+        {
+          "client_id": "657382232934-6qq53vip0c2g90s9iulu7nifei7vi5st.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "657382232934-6qq53vip0c2g90s9iulu7nifei7vi5st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiJO0AO7tookgy89qgOOqYrxh0hzgR_fU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657382232934-6qq53vip0c2g90s9iulu7nifei7vi5st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657382232934:android:a9928abbce7bac3f",
+        "android_client_info": {
+          "package_name": "joviananthony.knack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657382232934-reksjile8s5sfr938k8sj7d1keahivgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "joviananthony.knack",
+            "certificate_hash": "236be3b978e9ea3d1574b30c237d48da16ff7fcc"
+          }
+        },
+        {
+          "client_id": "657382232934-6qq53vip0c2g90s9iulu7nifei7vi5st.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "657382232934-6qq53vip0c2g90s9iulu7nifei7vi5st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiJO0AO7tookgy89qgOOqYrxh0hzgR_fU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657382232934-6qq53vip0c2g90s9iulu7nifei7vi5st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
